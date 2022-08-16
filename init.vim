@@ -1,0 +1,11 @@
+source ~/.vim/plugins.vim
+source ~/.vim/quickscope.vim
+source ~/.vim/vim-move.vim
+source ~/.vim/hexokinase.vim
+source ~/.vim/vimwiki.vim
+source ~/.vim/fzf.vim
+source ~/.vim/settings.vim
+source ~/.vim/nerdtree.vim
+source ~/.vim/coc.vim
+source ~/.vim/mappings.vim
+source ~/.vim/colors.vim

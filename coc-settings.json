@@ -1,0 +1,63 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["javascript", "typescript", "javascriptreact", "typescriptreact"],
+
+  "codeLens.enable": true,
+  // File extensions to be parsed by the Typescript parser
+  "importCost.typescriptExtensions": [
+    "\\.tsx?$",
+    "\\.ts?$"
+  ],
+
+  // File extensions to be parsed by the Javascript parser
+  "importCost.javascriptExtensions": [
+    "\\.jsx?$",
+    "\\.js?$"
+  ],
+
+  // Which bundle size to display
+  "importCost.bundleSizeDecoration": "both",
+
+  // Display the 'calculating' decoration
+  "importCost.showCalculatingDecoration": true,
+
+  // Print debug messages in output channel
+  "importCost.debug": false,
+
+  "eslint.quiet": true,
+  "eslint.enable": false,
+  "eslint.run": "onSave",
+  "eslint.autoFixOnSave": true,
+
+  "prettier.tabWidth": 4,
+
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "typescript.referencesCodeLens.enable": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "javascript.referencesCodeLens.enable": true,
+
+  // "suggest.completionItemKindLabels": {
+  //   "variable": "\uf71b",
+  //   "constant": "\uf8ff",
+  //   "struct": "\ufb44",
+  //   "class": "\uf0e8",
+  //   "interface": "\ufa52",
+  //   "text": "\ue612",
+  //   "enum": "\uf435",
+  //   "enumMember": "\uf02b",
+  //   "color": "\ue22b",
+  //   "property": "\ufab6",
+  //   "field": "\uf93d",
+  //   "unit": "\uf475",
+  //   "file": "\uf471",
+  //   "value": "\uf8a3",
+  //   "event": "\ufacd",
+  //   "folder": "\uf115",
+  //   "keyword": "\uf893",
+  //   "snippet": "\uf64d",
+  //   "operator": "\uf915",
+  //   "reference": "\uf87a",
+  //   "typeParameter": "\uf278",
+  //   "default": "\uf29c"
+  // },
+  "java.format.settings.url": "/Users/arthurdeaquino/.config/coc/extensions/node_modules/redhat.java/eclipse-formatter.xml"
+}
